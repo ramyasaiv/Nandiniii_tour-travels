@@ -355,7 +355,11 @@ header .search-bar-container label:hover{
   padding:1rem 0;
   color:#666;
 }
-
+.book .row form .select{
+  width:100%;
+  display:inline-block;
+  box-sizing:border-box;
+}
 .packages .box-container{
   display: flex;
   flex-wrap: wrap;
